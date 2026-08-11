@@ -2,24 +2,24 @@
 .venv/
 venv/
 env/
- 
+
 # Python cache
 __pycache__/
 *.py[cod]
- 
+
 # Testing
 .pytest_cache/
 .coverage
 htmlcov/
- 
+
 # IDE
 .vscode/
 .idea/
- 
-# Environment/secrets
+
+# Environment / secrets
 .env
 .env.*
- 
+
 # OS files
 .DS_Store
 Thumbs.db
