@@ -1,4 +1,4 @@
-# Virtual environments
+# Virtual environment
 .venv/
 venv/
 env/
@@ -7,7 +7,7 @@ env/
 __pycache__/
 *.py[cod]
 
-# Testing
+# Pytest
 .pytest_cache/
 .coverage
 htmlcov/
@@ -16,7 +16,7 @@ htmlcov/
 .vscode/
 .idea/
 
-# Environment / secrets
+# Environment variables
 .env
 .env.*
 
